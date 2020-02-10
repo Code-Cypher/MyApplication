@@ -30,9 +30,9 @@
         android:text="TextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/textView2"
-        android:layout_alignStart="@+id/textView2"
-        android:layout_marginStart="19dp"
+        android:layout_marginStart="23dp"
         android:layout_marginTop="126dp"
-        android:id="@+id/textView3" />
+        android:id="@+id/textView3"
+        android:layout_below="@+id/textView2"
+        android:layout_alignStart="@+id/textView2" />
 </RelativeLayout>
